@@ -3,9 +3,9 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        hostname: 'httpsplacehold.co'
-      }
-    ]
+        hostname: 'httpsplacehold.co',
+      },
+    ],
   },
 };
 
